@@ -1,0 +1,3 @@
+sui client call --package 0x5b007c167399ab923d4d1f2f0e2293e572cfb11ca94d024b485c11bfcb0b8539 --module todolist --function create_task
+
+--gas-price 100000000
